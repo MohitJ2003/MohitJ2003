@@ -51,7 +51,7 @@ Currently exploring:
 ---
 
 ## 📫 Get in Touch
-- **Email**: [mohit.johri@example.com](mailto:johrimohit1702@gmail.com)
+- **Email**: [johrimohit1702@gmail.com](mailto:johrimohit1702@gmail.com)
 - **LinkedIn**: [linkedin.com/in/mohitjohri](https://www.linkedin.com/in/mohit-johri-321752253)
 - **GitHub**: [github.com/mohitjohri](https://github.com/MohitJ2003/)
 - **Portfolio**: [www.mohitjohri.com](https://mohitj2003.github.io/Portfolio/index.html)
