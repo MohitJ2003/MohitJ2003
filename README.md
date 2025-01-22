@@ -56,6 +56,7 @@ Currently exploring:
 - **GitHub**: [github.com/mohitjohri](https://github.com/MohitJ2003/)
 - **Portfolio**: [www.mohitjohri.com](https://mohitj2003.github.io/Portfolio/index.html)
 
+- **Portfolio**: [https://www.kaggle.com/mohitjohri](https://www.kaggle.com/mohitjohri)
 ---
 
 ## 🎯 Mission
